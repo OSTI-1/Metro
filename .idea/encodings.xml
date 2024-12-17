@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/build.gradle.kts" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/metro/App.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/metro/Dijkstra.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/metro/Graph.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/example/metro/AppTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/example/metro/DijkstraTest.java" charset="windows-1251" />
+  </component>
+</project>
